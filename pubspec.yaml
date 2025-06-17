@@ -1,5 +1,5 @@
 name: editorjs_flutter_view
-description: "A new Flutter package project."
+description: A Flutter widget to render JSON content from Editor.js as native Flutter widgets.
 version: 0.0.1
 homepage: https://github.com/221geek/editorjs_flutter_view
 repository: https://github.com/221geek/editorjs_flutter_view
