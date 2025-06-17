@@ -1,7 +1,8 @@
 name: editorjs_flutter_view
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/221geek/editorjs_flutter_view
+repository: https://github.com/221geek/editorjs_flutter_view
 
 environment:
   sdk: ^3.8.1
